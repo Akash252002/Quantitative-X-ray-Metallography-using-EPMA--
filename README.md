@@ -1,24 +1,23 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Material Science and Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
-
+<b> Lab | <b> Charaterization of Materials
+<b> Experiment|     <b> Quantitative-X-ray-Metallography-using-EPMA
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. Kantesh Balani 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | Indian Institude of Technology, Kanpur <b>  
+<b> Email id|  kbalani@iitk.ac.in   <b>  
+<b> Department |  Material Science and Engineering 
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 |Akash Kumar | Student | Computer Science and Engineering | akasr1603@gmail.com | .
 2 | . | . | . | . | .
