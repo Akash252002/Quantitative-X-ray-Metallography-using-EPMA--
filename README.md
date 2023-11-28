@@ -19,5 +19,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |Akash Kumar | Student | Computer Science and Engineering | akasr1603@gmail.com | .
+1 |Akash Kumar | Student | Computer Science and Engineering | Bundelkhand University, Jhansi | akasr1603@gmail.com
 2 | . | . | . | . | .
